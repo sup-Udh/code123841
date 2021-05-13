@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @code123841
-- 👀 I’m interested in coding
+- 👋 Hi, I'm Udhay
+- Am 13 
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on a meme generator 
+- Collab on notes cluster
 - 📫 How to reach me through mail udhay1co.de@gmail.com
 
 <!---
