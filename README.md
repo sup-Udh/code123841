@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Udhay
 - Am 13 
 - 🌱 I’m currently learning js
-- Collab on notes cluster
 - 📫 How to reach me through mail udhay1co.de@gmail.com
 
 <!---
