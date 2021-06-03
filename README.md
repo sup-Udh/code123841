@@ -1,9 +1,23 @@
-- 👋 Hi, I'm Udhay
-- Am 13 
-- 🌱 I’m currently learning js
-- 📫 How to reach me through mail udhay1co.de@gmail.com
+Hey All I'm udhay A 13 year old Full stack Developer , I hav been Coding for 2 Years
 
-<!---
-code123841/code123841 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 pronouns - he/him
+
+Favorite text editor - vs code
+
+🌱 am currently Learning Typescript, Rust , React 
+
+My favorite Database
+
+1. Mysql 
+2. mongo db
+3. Firebase (The best : ) )
+
+### **Languages and Frameworks**
+
+Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , node , php
+
+Some other Stuff you need to know about me 
+
+1. I loathe Chemistry
+2. I have  50+ Themes For Vs code 😑
+3. js is My favorite language
