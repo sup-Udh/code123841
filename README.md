@@ -24,4 +24,16 @@ Some other Stuff you need to know about me
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+cOdE staTs
+
+
+![Udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code123841)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&hide=contribs,prs)
