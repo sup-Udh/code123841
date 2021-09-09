@@ -2,6 +2,12 @@ Hey All I'm udhay A 13 year old Full stack Developer , I hav been Coding for 2 Y
 
 😄 pronouns - he/him
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=code123841&theme=onedark)](https://github.com/code123841/github-profile-trophy)
+
+
+
+
 Favorite text editor - vs code
 
 🌱 am currently Learning Typescript, Rust , React 
