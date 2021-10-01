@@ -10,7 +10,9 @@ Hey All I'm udhay A 13 year old Full stack Developer , I hav been Coding for 2 Y
 
 
 ## Projects
-> Currently working on [Covidm](https://github.com/code123841/Covidm_webapp)
+> Currently working on [Covidm](https://github.com/Covidm/)
+> Cupon collector [Google Meet hacker](https://github.com/code123841/Cupon-collector) (WARNING! this is not a cupon collector, this is a meet hacker)
+> 
 
 Favorite text editor - vs code
 
@@ -24,7 +26,7 @@ My favorite Database
 
 ### **Languages and Frameworks**
 
-Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , node , php
+Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , nodejs , php, flutter, android dev, aurdiuno , basic linux scripting , mysql , mongo db , discord js , dart , typescript, taliwind css , learning Rust 
 
 Some other Stuff you need to know about me 
 
