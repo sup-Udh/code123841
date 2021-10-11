@@ -1,4 +1,4 @@
-Hey All I'm udhay A 13 year old Full stack Developer , I hav been Coding for 2 Years
+Hey All I'm udhay A 13 year old Full stack Developer , I have been Coding for 2 Years
 
 😄 pronouns - he/him
 
