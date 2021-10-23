@@ -1,4 +1,4 @@
-Hey All I'm udhay A 13 year old Full stack Developer , I have been Coding for 2 Years
+Hey All I'm udhay A 13 year old Full stack Developer 
 
 😄 pronouns - he/him
 
@@ -8,15 +8,26 @@ Hey All I'm udhay A 13 year old Full stack Developer , I have been Coding for 2 
 [![trophy](https://github-profile-trophy.vercel.app/?username=code123841&theme=onedark)](https://github.com/code123841/github-profile-trophy)
 
 
+## Projects Am Working on
+# Cool Projects
+[Meet hacker](https://github.com/code123841/Cupon-collector)
+automatially unmutes and turns cam of  the victim :| 
 
-## Projects
-> Currently working on [Covidm](https://github.com/Covidm/)
-> Cupon collector [Google Meet hacker](https://github.com/code123841/Cupon-collector) (WARNING! this is not a cupon collector, this is a meet hacker)
-> 
+# Currently Working on 
+Shell scripts
+[linux-notes-taking app](https://github.com/code123841/Linux-notes-app)
 
-Favorite text editor - vs code
+# Past Projects
+[Covidm](https://github.com/Covidm)
+The one and only web app to fight aganist the virus.
 
-🌱 am currently Learning Typescript, Rust , React 
+
+
+
+
+Favorite text editor - vs code, atom.
+
+🌱 am currently Learning Typescript, Rust , React , shell scripting(hacking)
 
 My favorite Database
 
@@ -26,7 +37,13 @@ My favorite Database
 
 ### **Languages and Frameworks**
 
-Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , nodejs , php, flutter, android dev, aurdiuno , basic linux scripting , mysql , mongo db , discord js , dart , typescript, taliwind css , learning Rust 
+Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , nodejs , php, flutter, android dev, aurdiuno , basic linux scripting , mysql , mongo db , discord js , dart , typescript, talwind css , learning Rust 
+
+Daily languages:
+`.py`
+`.js`
+`.ts`
+`.sh`
 
 Some other Stuff you need to know about me 
 
