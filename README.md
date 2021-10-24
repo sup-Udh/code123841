@@ -7,7 +7,6 @@ Hey All I'm udhay A 13 year old Full stack Developer
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=code123841&theme=onedark)](https://github.com/code123841/github-profile-trophy)
 
 
 ## Projects Am Working on
@@ -61,10 +60,6 @@ cOdE staTs
 
 
 ![Udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code123841)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&hide=contribs,prs)
+[![trophy](https://github-profile-trophy.vercel.app/?username=code123841&theme=onedark)](https://github.com/code123841/github-profile-trophy)
+
