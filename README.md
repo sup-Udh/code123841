@@ -4,6 +4,11 @@ Hey All I'm udhay A 13 year old Full stack Developer
 
 😄 pronouns - he/him
 
+### Wanna talk? connet with me via 
+https://www.patreon.com/udhay
+
+-twitter
+https://twitter.com/Udhay26903569
 
 
 
