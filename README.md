@@ -1,6 +1,6 @@
 Hey All I'm udhay A 13 year old Full stack Developer 
 
-# A passionate Developer from Dubai 
+# A passionate Developer from India
 
 😄 pronouns - he/him
 
