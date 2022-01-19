@@ -1,70 +1,40 @@
-Hey All I'm udhay A 14 year old Full stack Developer 
+![image](https://user-images.githubusercontent.com/57910021/150063031-5333bc94-6248-449b-b4db-73fa199e007c.png)
 
-# A passionate Developer from India
+# 👋 Hello There! I'm Udhay A Full-stack Developer from India! 
 
-😄 pronouns - he/him
+## My Tech-Stacks/ Languages I want to learn
 
-### Wanna talk? connet with me via 
-https://www.patreon.com/udhay
-
--twitter
-https://twitter.com/Udhay26903569
-
-
-
-
-
-## Projects Am Working on
-# Cool Projects
-[Meet hacker](https://github.com/code123841/Cupon-collector)
-automatially unmutes and turns cam of  the victim :| 
-
-# Currently Working on 
-Shell scripts
-[linux-notes-taking app](https://github.com/code123841/Linux-notes-app)
-
-# Past Projects
-[Covidm](https://github.com/Covidm)
-The one and only web app to fight aganist the virus.
+-> Typescript,
+-> Javascript,- nextjs
+-> MongoDB, 
+-> SQl
+-> CSS - Tailwind > Bootstrap
+-> Graphql 
+-> HTML 
+-> Vercel 
+-> PHP (Forgot most of the stuff lol)
+-> Python (some basic stuff)
+-> Rest api's!
+-> Bash scripting
 
 
 
+## My Projects 
 
+### Past Projects 
+[Covidm](https://github.com/Covidm/Covidm)
+-> The only web-app you would need to fight the virus!
+[DevGram ]("https://github.com/blog-spot/Devgram")
+-> a simple social app  where you can post blogs.
 
-Favorite text editor - vs code, atom.
+Currently Working on a startup called [basically.email]("https://github.com/orgs/basically-email/")
+[Oursite]("https://basically.email")
 
-🌱 am currently Learning Typescript, Rust , React , shell scripting(hacking)
+And Participating In The CodeFest by Oakridge First hackathon on 2022!
 
-My favorite Database
+### Other Stuff! 
 
-1. Mysql 
-2. mongo db
-3. Firebase (The best : ) )
+Fun Fact: I'm 14.
+-> Member of Buildergroop! 
 
-### **Languages and Frameworks**
-
-Javascript , Html , Css , Flask , Bootstrap , Jqurey , Python , nodejs , php, flutter, android dev, aurdiuno , basic linux scripting , mysql , mongo db , discord js , dart , typescript, talwind css , learning Rust 
-
-Daily languages:
-`.py`
-`.js`
-`.ts`
-`.sh`
-
-Some other Stuff you need to know about me 
-
-1. I loathe Chemistry
-2. I have  50+ Themes For Vs code 😑
-3. js is My favorite language
-
-
-
-
-
-cOdE staTs
-
-
-![Udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&show_icons=true&theme=radical)
-![udhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123841&hide=contribs,prs)
-[![trophy](https://github-profile-trophy.vercel.app/?username=code123841&theme=onedark)](https://github.com/code123841/github-profile-trophy)
-
+I cook very rarely.
