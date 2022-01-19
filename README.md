@@ -3,21 +3,38 @@
 # 👋 Hello There! I'm Udhay A Full-stack Developer from India! 
 
 ## My Tech-Stacks/ Languages I want to learn
+```
+-> Typescript, (bae)
 
--> Typescript,
 -> Javascript,- nextjs
+
 -> MongoDB, 
+
 -> SQl
+
 -> CSS - Tailwind > Bootstrap
+
 -> Graphql 
+
 -> HTML 
+
 -> Vercel 
+
 -> PHP (Forgot most of the stuff lol)
+
 -> Python (some basic stuff)
+
 -> Rest api's!
+
 -> Bash scripting
 
+-> Rust - learning
 
+-> 
+
+
+
+```
 
 ## My Projects 
 
