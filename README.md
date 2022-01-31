@@ -40,9 +40,9 @@
 ## My Projects 
 
 Currently Working on a startup called [basically.email]("https://github.com/orgs/basically-email/")
-[Oursite]("https://basically.email")
+[Oursite](https://basically.email)
 
-My Portfolio rebuild [udhay]("https://udhaycodes.me")
+My Portfolio rebuild [udhay](https://udhaycodes.me)
 
 ### Past Projects 
 [Covidm](https://github.com/Covidm/Covidm)
