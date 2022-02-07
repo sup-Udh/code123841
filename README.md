@@ -1,8 +1,24 @@
 ![image](https://user-images.githubusercontent.com/57910021/150063031-5333bc94-6248-449b-b4db-73fa199e007c.png)
 
-# 👋 Hello There! I'm Udhay A Full-stack Developer from India! 
 
+# 👋 Hello There! I'm Udhay A Full-stack Developer from India! 
  I’m a FullStack Developer with a passion for participate in every stage of digital product, from discovery to delivery. Helping to focus the business goals on users.
+ 
+ ```csharp
+sreecha@github
+-----------------
+
+OS:         Ubuntu 20.04
+Shell:      ZSH
+Pronouns:   He/Him
+Nickname:   Udh
+Location:   Bugs
+Languages:  .sh, .rs , .js , .ts
+Learning:   Nothing
+Hobbies:    Coding, Music, Sports
+ 
+                    
+```
  
 ## My Tech-Stacks/ Languages I want to learn
 ```
@@ -59,3 +75,9 @@ Fun Fact: I'm 14.
 -> Member of Buildergroop! 
 
 I cook very rarely.
+
+![](https://komarev.com/ghpvc/?username=code123841&style=flat-square)
+
+wanna talk? 
+Udhay#0001
+
