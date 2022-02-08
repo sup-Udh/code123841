@@ -52,7 +52,9 @@ Hobbies:    Coding, Music, Sports
 
 
 ```
+## Github stats-
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="udhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=code123841&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ## My Projects 
 
 Currently Working on a startup called [basically.email]("https://github.com/orgs/basically-email/")
@@ -78,6 +80,7 @@ I cook very rarely.
 
 ![](https://komarev.com/ghpvc/?username=code123841&style=flat-square)
 
+
 wanna talk? 
-Udhay#0001
+Udhay#0001 (Most responsive )
 
