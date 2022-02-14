@@ -80,6 +80,7 @@ I cook very rarely.
 
 ![](https://komarev.com/ghpvc/?username=code123841&style=flat-square)
 
+[![wakatime](https://wakatime.com/badge/user/398a6ae9-6b65-43fd-9e5d-7782f87423ef.svg)](https://wakatime.com/@398a6ae9-6b65-43fd-9e5d-7782f87423ef)
 
 wanna talk? 
 Udhay#0001 (Most responsive )
